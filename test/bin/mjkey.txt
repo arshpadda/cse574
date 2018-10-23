@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 118708, type 6.
+
+Issued to Arsh Padda <aarshpadda1996@gmail.com>.
+
+Expires November 22, 2018.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_S27GUBG257MA841S3SCA1N8XDMGm6SNmP25S673_213
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+133477e6b3557d86d421ddcaef05bcbfece25f3593f382f94f20130fac8c24f6
+a7c2663458532401048e76849f0abb999785c1de20055a82895b44f1fe6ad965
+efcfed6f591ee4b3543774e9764e85b977143f7f9a1e6f9fce098cc3078548a7
+55c737a1f707dbd7d13ba76a1e56e760a7de3ecb0576465ae2cd78228f3da6bd
+1d2737ffbadce3c363e9a7307c82a3b7a7286e06440da3308ebcd85e2525fb7e
+4832b92a078aabcdc31f2ae8ce653ceec0a095e80f27f48c6eaf81718271a0e0
+69404c1b986aaf50f72892163adb4aaf8644c51da36b732102904ea31e00f94f
+be2914ced18ff42942f8637700f7be312298e27cd83a8f5f442269d2c5e78b48
